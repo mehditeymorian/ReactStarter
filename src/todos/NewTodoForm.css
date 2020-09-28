@@ -1,0 +1,27 @@
+
+.new-todo-form {
+    display: inline;
+}
+.new-todo-input {
+    width: 60%;
+    padding: 8px;
+    margin-right: 16px;
+    user-select: auto;
+    border-radius: 8px;
+    border: grey 1px solid;
+}
+
+.new-todo-input:focus{
+    background-color: cornsilk;
+    outline: none;
+}
+
+.new-todo-button {
+    width: 35%;
+    height: inherit;
+}
+
+.new-todo-button:focus {
+    outline: none;
+}
+
