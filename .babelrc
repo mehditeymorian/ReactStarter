@@ -1,3 +1,4 @@
 {
-  "presents" : ["@babel/present-evn", "@babel/present-react"]
+  "presents" : ["@babel/present-evn", "@babel/present-react"],
+  "plugins": ["@babel/plugin-transform-runtime"]
 }
